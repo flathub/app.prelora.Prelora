@@ -23,12 +23,12 @@ modules:
       - type: archive
         only-arches:
           - x86_64
-        url: https://prelora.app/downloads/v0.3.5/prelora-desktop-v0.3.5-x86_64.tar.gz
-        sha256: "1f8d86fa03c8b3ae1a809e6a8fe5a1acdd1cac038a186d184a9fbb008831c022"
+        url: https://prelora.app/downloads/v0.3.8/prelora-desktop-v0.3.8-x86_64.tar.gz
+        sha256: "762e6e10d3652672843a9102be6daa02cf3bd7c91407c07ca7e7525aa9f55236"
         strip-components: 0
       - type: archive
         only-arches:
           - aarch64
-        url: https://prelora.app/downloads/v0.3.5/prelora-desktop-v0.3.5-aarch64.tar.gz
-        sha256: "a81cd59adc1d88dabc20c34494903c486d8068957681dfd9ca6cb8c29d860776"
+        url: https://prelora.app/downloads/v0.3.8/prelora-desktop-v0.3.8-aarch64.tar.gz
+        sha256: "9d59d19df26b52f876d068ac48254b0e1c3ace3fe06f32369e336fa5c4e0ece9"
         strip-components: 0
